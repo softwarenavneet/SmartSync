@@ -1,2 +1,3 @@
 "# SmartSync"
-“# ReadMe” 
+“# ReadMe”
+“# ReadMe in master” 
